@@ -8,10 +8,8 @@ function callMe() {
 }
 
 
-var lyric = "hey!!!"
-function crazy(){
-    console.log(lyric)
-  }
+function crazy() {
+    console.log("hey!!!")
 }
 
 function sayMyName() {
